@@ -681,17 +681,4 @@ void loop(){
     wifiManager.resetSettings();
   }
  
-} /*
-void loop(){
- // conecta();
- 
-  black_servo.write(0);
-  delay(600);
-  black_servo.write(115);
-  delay(600);
-  //blue_servo.write(120);
-  delay(800);
-  //blue_servo.write(0);
-  delay(800);
-  black_servo.write(0);
-}*/
+}
